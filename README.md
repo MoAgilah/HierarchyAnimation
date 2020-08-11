@@ -1,9 +1,9 @@
 # HierarchyAnimation
 "A real time 3d techniques for games assignment, that is culmination of several practicals, with ultimate goal of achieving Hierarchical Animation";
-"The demo's control's"
-    "C - Change current camera state"
-	  "W - Change to wireframe"
-    "Esc - Quit Application"
+"The demo's control's";
+    "C - Change current camera state";
+    "W - Change to wireframe";
+    "Esc - Quit Application";
    
 "The plane and Gun State"
     "Q - Zoom in"; 
