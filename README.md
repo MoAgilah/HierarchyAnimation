@@ -1,5 +1,5 @@
 # HierarchyAnimation
-"A real time 3d techniques for games assignment, that is culmination of several practicals, with ultimate goal of achieving Hierarchical Animation"
+"A real time 3d techniques for games assignment, that is culmination of several practicals, with ultimate goal of achieving Hierarchical Animation";
 "The demo's control's"
     "C - Change current camera state"
 	  "W - Change to wireframe"
