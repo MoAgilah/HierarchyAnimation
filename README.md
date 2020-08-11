@@ -1,2 +1,2 @@
 # HierarchyAnimation
-"A real time 3d techniques for games assignment, that is culmination of several practicals, with ultimate goal of achieving Hierarchical Animation";
+"A real time 3d techniques for games assignment, that is culmination of several practicals, with ultimate goal of achieving Hierarchical Animation in the form of skeletal animation. The Shared project is a dependency of the Hierarchy project that contains the code for my submission for the assignment. With the code over the first few practicals making up the starting point of the assignment, the assignment was to utilise and expand our knowledge.";
